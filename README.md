@@ -1,0 +1,1 @@
+This project is a fully containerized MongoDB sharded cluster set up using Docker Compose. It includes 3 sharded replica sets, 3 config servers, 2 mongos routers, and a data loader service that initializes the cluster and loads sample data. Authentication is enabled using a shared keyfile, and all components are configured to work together automatically on startup.
