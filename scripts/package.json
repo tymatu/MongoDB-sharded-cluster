@@ -1,0 +1,12 @@
+{
+  "name": "mongodb-data-loader",
+  "version": "1.0.0",
+  "description": "Data loader for MongoDB with validation schema",
+  "main": "data-loader.js",
+  "scripts": {
+    "load": "node data-loader.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  }
+}
